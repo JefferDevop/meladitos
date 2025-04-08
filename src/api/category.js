@@ -3,7 +3,7 @@ import { BASE_API } from "../config/constants";
 export class Categories {
   async getAll() {
     try {
-      const url = `${BASE_API}/api/category`;
+      const url = `${BASE_API}/api/category/`;
 
       const requestOptions = {
         method: "GET",
