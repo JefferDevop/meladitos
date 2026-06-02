@@ -9,9 +9,6 @@
     "lint": "next lint"
   },
 
-  "engines": {
-    "node": "18.x"
-  },
   "dependencies": {
     "next-boost": "^0.12.0",
     "nextjs-progressbar": "^0.0.16",
