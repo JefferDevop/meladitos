@@ -69,7 +69,7 @@ export function FooterApp() {
         </div>
 
         <BtnLink
-          link={"https://meladitos.conexion.bar/admin-dashboard/"}
+          link={"https://meladitos.cosmoqa.store/admin-dashboard/"}
           title={"ADMI"}
           logo={<CiUser size={20} />}
         />
