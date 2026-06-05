@@ -50,11 +50,11 @@ export function Footer() {
       </div>
       <div>
         <p className={styles.copyright}>
-        LOS MELADITOS DISTRIBUIDORA Copyright © 2024. Todos los derechos
-          reservados <br />
+        LOS MELADITOS DISTRIBUIDORA <br/>
+        Copyright © 2024. Todos los derechos reservados <br />
           Desarrollado por: Jeffer Quiñones <br />
-          Cel: 300 530 9990
-          Versión 5.0.2
+          Cel: 324 488 3630 <br />
+          Versión 5.0.3
         </p>
       </div>
     </div>
