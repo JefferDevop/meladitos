@@ -6,7 +6,7 @@ export function useWhatsApp() {
     const [selectedItem, setSelectedItem] = useState(null);
 
     const items = ['+573107617780', '+573108937275', '+573226630481'];
-    const seller = [ 'DANNA', 'SANTIAGO', 'VIVÍANA']
+    const seller = [ 'ALEJANDRO', 'SANTIAGO', 'VIVÍANA']
 
     const handleItemClick = (index) => {
         setSelectedItem(index);
